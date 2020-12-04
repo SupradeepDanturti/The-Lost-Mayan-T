@@ -11,9 +11,9 @@
 
 ## Links
 [![Part-1](https://img.youtube.com/vi/T0JXihobN9M/0.jpg)](https://youtu.be/T0JXihobN9M)
-* Part-1
 [![Part-2](https://img.youtube.com/vi/khT8HLzA7og/0.jpg)](https://youtu.be/khT8HLzA7og)
-* Part-2
+
+* Please click on the Image to watch the Video
 
 ## Technologies
 * Unity 3D
